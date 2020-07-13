@@ -1,0 +1,27 @@
+.image > img {
+    max-width: 600px;
+}
+
+.image {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.image_annotation {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 6px;
+}
+
+p {
+    text-align: justify;
+}
+
+.italic-font {
+    font-style: italic;
+}
+
+.article {
+    max-width: 1000px;
+    margin: 10px auto;
+}
